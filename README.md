@@ -7,7 +7,6 @@ portfolio project using HTML5 and CSS and github
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://bhaskar3467123-ctrl.github.io/Bhaskar-Reddy.io/)
 
 
-my portfolio
 
 
 
